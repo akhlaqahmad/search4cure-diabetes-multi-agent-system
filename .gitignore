@@ -1,3 +1,7 @@
 .env
 .DS_Store
 backend/.DS_Storenotebooks/multimodal_rag_mongodb_voyage_ai.ipynb
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
